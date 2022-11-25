@@ -1,0 +1,21 @@
+using System;
+namespace Csharp
+{
+    class Program
+    {
+        
+        public static void Main(string[] args)
+    
+    {
+            double a=99.99;
+            int b=9;
+    
+           int d=(int)a;         
+            double c=(double)b;  
+            Console.WriteLine(d);
+            Console.WriteLine(c);
+        }
+    }
+}
+
+
