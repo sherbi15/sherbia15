@@ -1,0 +1,22 @@
+
+using System;
+
+namespace Csharp
+{
+  class Program
+  {
+    public static void Main(string[] args)
+    {
+     
+     int a=10;
+     int b=30;
+    Console.WriteLine(a+b);
+    Console.WriteLine(a-b);
+    Console.WriteLine(a=b);
+    Console.WriteLine(a>5 || b<5);
+    Console.WriteLine(++b);
+    }
+  }
+  
+}
+
